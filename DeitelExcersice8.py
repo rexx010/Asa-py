@@ -22,10 +22,10 @@ five = 5
 fivesqr = five * five
 fivecube = five ** 3 
 
-print('number	square	cube')
-print(zero,	zerosqr,	zerocube)
-print(one,	onecube,	onecube)
-print(two,	twosqr,	twocube)
-print(three,	threesqr,	threecube)
-print(four,	foursqr,	fourcube)
-print(five,	fivesqr,	fivecube)
+print('number\tsquare\tcube')
+print(zero,'\t',zerosqr,'\t',zerocube)
+print(one,'\t',onecube,'\t',onecube)
+print(two,'\t',twosqr,'\t',twocube)
+print(three,'\t',threesqr,'\t',threecube)
+print(four,'\t',foursqr,'\t',fourcube)
+print(five,'\t',fivesqr,'\t',fivecube)
